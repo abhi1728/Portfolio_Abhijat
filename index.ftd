@@ -1,11 +1,12 @@
+
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
--- import: <user_name>.github.io/<repo_name>/lib
+-- import: abhi1728.github.io/portfolio_abhijat/lib
 
 -- lib.page:
 
 -- lib.header:
-logo: $assets.files.assets.logo.jpg
+logo: $assets.files.assets.port.png
 logo-text: Portfolio
 cta-text-1: Home
 cta-text-2: About
@@ -14,15 +15,14 @@ cta-text-1-url: index.html
 cta-text-2-url: index.html
 cta-text-3-url: index.html
 
--- hero-1.hero-1: I'm John Doe
+-- hero-1.hero-1: I'm Abhijat Krishna K
 cta-button-1: Resume
-link-1: https://www.resume.com/
+link-1: https://drive.google.com/file/d/1qgTbpYuA9o2KOFOi0cpcCt4yLHFBCmGL/view?usp=sharing
 cta-button-2: Schedule Meeting
-link-2: https://calendly.com/
-cover: $assets.files.assets.ape-1.jpg
+link-2: https://meet.google.com/
+cover: $assets.files.assets.Abhijat.jpeg
 
-Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
-Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+I am a third-year BTech student at Mar Athanasius College of Engineering, possessing confidence and strong articulation skills. 
 
 
 -- end: lib.page
