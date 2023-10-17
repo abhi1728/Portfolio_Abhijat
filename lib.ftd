@@ -56,9 +56,9 @@ colors: $color-values-2
 
 -- ftd.linear-gradient-color list color-values-2:
 
--- ftd.linear-gradient-color: #111111
+-- ftd.linear-gradient-color: #FFD100
 
--- ftd.linear-gradient-color: #222222
+-- ftd.linear-gradient-color: #CD3CF7
 
 -- end: color-values-2
 
@@ -126,7 +126,7 @@ cta-text-3-url: $header.cta-text-3-url
 
 -- component header-mobile:
 ftd.image-src logo:
-string logo-text:
+optional string logo-text:
 string cta-text-1:
 string cta-text-2:
 string cta-text-3:
@@ -272,7 +272,7 @@ border-radius.px: 20
 
 -- ftd.image:
 src: $header-desktop.logo
-width.fixed.px: 55
+width.fixed.px: 200
 height: auto
 border-radius.px: 20
 margin-vertical.px: 10
@@ -281,7 +281,7 @@ margin-vertical.px: 10
 margin-horizontal.px: 10
 text-align: center
 align-self: center
-color: white
+color: black
 
 -- ftd.row:
 width: fill-container
@@ -419,18 +419,17 @@ role: $inherited.types.label-large
 style: semi-bold
 color: white
 
--- ftd.text: Trizwit
+-- ftd.text: Abhijat
 role: $inherited.types.label-large
 style: semi-bold
 color: white
-link: https://trizwit.com/
+link:https://github.com/abhi1728/
 
 -- end: ftd.row
 
 -- end: ftd.column
 
 -- end: footer
-
 
 
 
